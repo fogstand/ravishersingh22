@@ -1,16 +1,14 @@
-### Hi there 👋
+### I am student at University of Colorado Denver, currently looking for part time positions as Software Development Intern 👋.
 
-<!--
-**ravishersingh2/ravishersingh2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on mastering problem solving and algorithms.
+- 🌱 I’m currently enrolled in algorithms, Database Design, Web API, Computer Networks and ioT.
+- 📫 How to reach me: ravinsher.singh@ucdenver.edu
+- ⚡ My Skillset :
+      Languages:C++, Python(pandas, scipy), and Javascript
+      Frontend: React,HTML,CSS.
+      Backend:  Node 
+      Version control : Git
+      Other: Linux, Elasticsearch,Nutch
+     
 -->
