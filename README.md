@@ -5,7 +5,7 @@
 - 🌱 I’m currently enrolled in algorithms, Database Design, Web API, Computer Networks and ioT.
 - 📫 How to reach me: ravinsher.singh@ucdenver.edu
 - ⚡ My Skillset :
-      - Languages:C++, Python(pandas, scipy), and Javascript
+      -Languages:C++, Python(pandas, scipy), and Javascript
       - Frontend: React,HTML,CSS.
       - Backend:  Node 
       - Version control : Git
