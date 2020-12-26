@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on mastering problem solving and algorithms.
-- 🌱 I’m currently enrolled in algorithms, Database Design, Web API, Computer Networks and ioT.
+- 🌱 I’m currently enrolled in Algorithms, Database Design, Web API, Computer Networks and ioT.
 - 📫 How to reach me: ravinsher.singh@ucdenver.edu
 - ⚡ My Skillset :
       Languages:C++, Python(pandas, scipy), and Javascript.
